@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Terpene</string>
+    <string name="title_activity_main">Terpene</string>
+    <string name="package_name">com.scottcrowder.terpene</string>
+    <string name="custom_url_scheme">com.scottcrowder.terpene</string>
+</resources>

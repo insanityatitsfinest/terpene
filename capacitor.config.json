@@ -1,0 +1,22 @@
+{
+  "appId": "com.scottcrowder.terpene",
+  "appName": "Terpene",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": true
+  },
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "LIGHT"
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_terpene",
+      "iconColor": "#534AB7"
+    }
+  }
+}
